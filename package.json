@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "sawala-gatsby-boilerplate",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Sawala gatsby boilerplate",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Andri Junaedi <andri@sawala.tech>",
   "dependencies": {
     "gatsby": "^2.26.1",
     "gatsby-image": "^2.5.0",
@@ -36,9 +36,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/sawala-tech/sawala-gatsby-boilerplate.git"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/sawala-tech/sawala-gatsby-boilerplate/issues"
   }
 }
