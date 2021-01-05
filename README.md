@@ -27,6 +27,7 @@ Kick off your project with this Sawala boilerplate. This starter ships with the 
    # clone git repository
    git clone https://github.com/sawala-tech/sawala-gatsby-boilerplate.git
    # install all packages
+   cd sawala-gatsby-boilerplate/
    yarn install
    ```
 
