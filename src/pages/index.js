@@ -14,8 +14,14 @@ const IndexPage = () => (
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
-    <Link to="/page-2/">Go to page 2</Link> <br />
-    <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
+    <Link to="/page-2/" className="my-2 hover:text-blue-600">
+      Go to page 2
+    </Link>{' '}
+    <br />
+    <br />
+    <Link to="/using-typescript/" className="my-2 hover:text-blue-600">
+      Go to "Using TypeScript"
+    </Link>
   </Layout>
 )
 
