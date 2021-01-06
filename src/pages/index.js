@@ -31,7 +31,7 @@ const IndexPage = () => (
         </Link>
         <Link
           to="/using-typescript/"
-          className="py-2 px-4 sm:my-4 text-white bg-blue-500 rounded hover:bg-blue-600 transition-colors duration-200"
+          className="py-2 px-4 my-4 text-white bg-blue-500 rounded hover:bg-blue-600 transition-colors duration-200"
         >
           Go to "Using TypeScript"
         </Link>
