@@ -29,6 +29,12 @@ module.exports = {
     },
     `gatsby-plugin-postcss`,
     `gatsby-plugin-preact`,
+    {
+      resolve: 'gatsby-plugin-purgecss',
+      options: {
+        tailwind: true,
+      },
+    },
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     `gatsby-plugin-offline`,
